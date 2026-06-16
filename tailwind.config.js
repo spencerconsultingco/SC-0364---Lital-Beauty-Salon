@@ -11,8 +11,8 @@ module.exports = {
         brand: {
           primary: '#5C2D3E',
           secondary: '#9C6B7A',
-          accent: '#C4748A',
-          background: '#FDF0F3',
+          accent: '#1A5C3A',
+          background: '#F0F7F3',
           text: '#2E1520',
         },
       },
