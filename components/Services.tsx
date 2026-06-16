@@ -14,9 +14,9 @@ const services = [
   },
   {
     icon: Sparkles,
-    title: `Hair Color and Highlights`,
+    title: `Lash Extensions and Lifts`,
     description:
-      'Rich glazes, dimensional highlights, Keratin treatments, and Brazilian straightening that leave your hair luminous and full of life.',
+      'Stunning lash extensions, lifts, and tints designed to enhance your natural beauty. Wake up every morning looking effortlessly polished.',
   },
   {
     icon: Zap,
@@ -101,7 +101,7 @@ export default function Services() {
           >
             <Image
               src="/images/gallery-1.jpg"
-              alt="Professional hair styling at Lital Beauty Salon"
+              alt="Professional lash extension treatment at Lital Beauty Salon"
               fill
               className="object-cover object-top"
               sizes="(max-width: 1024px) 100vw, 50vw"
