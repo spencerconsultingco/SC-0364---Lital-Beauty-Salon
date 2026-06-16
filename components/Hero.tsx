@@ -28,7 +28,7 @@ export default function Hero() {
       >
         <Image
           src="/images/hero.jpg"
-          alt="Lital Beauty Salon interior"
+          alt="Lital Beauty Salon luxury lash and beauty studio interior"
           fill
           priority
           className="object-cover object-center"
@@ -57,10 +57,7 @@ export default function Hero() {
           transition={{ duration: 0.9, ease: 'easeOut', delay: 0.5 }}
           className="font-heading text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-light text-white leading-none tracking-tight max-w-4xl"
         >
-          Where Beauty
-          <span className="block font-heading italic font-medium text-brand-accent">
-            Becomes Yours
-          </span>
+          Brooklyn's Premier Lash and Beauty Studio
         </motion.h1>
 
         <motion.p
